@@ -135,10 +135,19 @@ Node.js · Express · Socket.IO · React · Redis
 
 ---
 
-## What I care about
+## A bit more about me
 
-| | |
-|---|---|
+I graduated from **Vellore Institute of Technology (VIT)** in 2024 with an Integrated M.Tech in Computer Science and Engineering, specialising in Data Science.
+
+Since then, I've worked across the backend lifecycle: designing services and APIs, building event-driven pipelines, owning them in production, and debugging issues that cross several services. I enjoy taking ownership of a messy problem and driving it to a clean, reliable solution.
+
+I'm curious by nature and like to understand not just how something works, but why. Along the way I've explored backend development, distributed systems, concurrency and applied AI (RAG and vector search), and each one has shaped how I think about building systems.
+
+I value strong fundamentals, clear communication and honest engineering: measuring before claiming, and writing down the trade-offs. I enjoy working with a team and being someone others can rely on when production gets stressful.
+
+Outside work, I enjoy playing badminton, chess and cricket.
+
+---|---|
 | **Correctness under load** | Let the database decide; prove it with concurrency tests |
 | **Idempotency** | Retries and duplicates should never double-charge or double-process |
 | **Observability** | Tracing and alerts so problems are found before customers report them |
