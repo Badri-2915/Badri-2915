@@ -147,12 +147,6 @@ I value strong fundamentals, clear communication and honest engineering: measuri
 
 Outside work, I enjoy playing badminton, chess and cricket.
 
----|---|
-| **Correctness under load** | Let the database decide; prove it with concurrency tests |
-| **Idempotency** | Retries and duplicates should never double-charge or double-process |
-| **Observability** | Tracing and alerts so problems are found before customers report them |
-| **Honest engineering** | Measure before claiming; write down the trade-offs |
-
 ---
 
 <div align="center">
